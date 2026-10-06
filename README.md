@@ -22,8 +22,7 @@
 
 ## Project Overview
 
-A unified mobile application designed to connect homeowners with verified, professional craftsmen for various home services. The platform uniquely bridges the gap in the Egyptian market by offering a hybrid hiring model: users can directly hire a craftsman based on their portfolio (Khamsat style) or post a specific home issue as a job and receive competitive bids (Mostaql style). The app features progressive onboarding for craftsmen, requiring official documentation to ensure trust and high-quality service.
-
+A unified mobile application designed to connect homeowners with verified, professional craftsmen for various home services. The platform uniquely bridges the gap in the Egyptian market by offering a direct hiring model: users can browse and directly hire a craftsman based on their portfolio, reviews, and previous work (Khamsat style). The app features progressive onboarding for craftsmen, requiring official documentation to ensure trust and high-quality service.
 ---
 
 ## Project Objectives
