@@ -5,7 +5,7 @@
 
 ## Team Members
 
-* **Mohamed Fekry Mahmoud Agina** (Team Leader / UI & UX Designer) - [GitHub](https://github.com/mohammed5239)
+* **Mohamed Fekry Mahmoud Agina** (Team Leader / UI & UX Designer)
 * **Abdelrahman Mohamed Elgendy** (UI/UX Designer)
 * **Omar Bahaa Ezzat** (UI/UX Designer)
 * **Salah Hussein Ahmed** (UI/UX Designer)
